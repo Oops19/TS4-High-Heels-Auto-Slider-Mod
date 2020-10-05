@@ -1,0 +1,25 @@
+
+This file contains only a list of some used CC with a short description:
+
+1) No support for sliders. Complicated setup with feet (CAS category: Shoes); toe nail colors (CAS category: socks) and heels (CAS category: tights).
+    https://www.patreon.com/posts/39052976 / https://dallasgirl79.tumblr.com/post/625357275168751616/nightingalesims-nightingalesims-pia-heels
+    Detailed barefoot feet in 'CAS/Shoes'
+        NightingaleSims_DallasGirl_shoes_Petite Feet V2 Tiptoes_EDIT(Pia).package
+
+    Shoes in 'CAS/Socks'
+        NightingaleSims_PiaHeels_S4.package
+        NightingaleSims_DallasGirl_shoes_Petite Feet V2 Tiptoes_EDIT(Pia).package
+
+    The file 'config/preset.DallasGirl79.ini' contains some more package names which are supported.
+
+
+2) Astya96 Valentine Heels, slider required.
+    https://www.patreon.com/posts/33961061
+        astya96_valentine_heels_vers.1.package
+        astya96_valentine_heels_vers.2.package
+
+    The file 'config/preset.astya96.ini' contains some more package names which are supported.
+
+
+3) ATS Hoverboard (CC object usage: to be implemented)
+    https://sims4.aroundthesims3.com/objects/special_06.shtml

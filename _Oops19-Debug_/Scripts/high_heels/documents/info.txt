@@ -1,0 +1,4 @@
+All debug and dump files will be written here.
+Cheat console / debug commands writer there output here. The standard mod does not use this directory.
+The mod itself have no cleanup command configured. Delete the generated files manually.
+

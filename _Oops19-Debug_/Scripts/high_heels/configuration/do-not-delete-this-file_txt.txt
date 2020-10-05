@@ -1,0 +1,4 @@
+Do not delete the 'do-not-delte.this-file.txt' file after creation. The default slider values are stored here.
+If it get's lost then the mod has no idea about the default settings.
+It could assume that '0' instead of the current slider value is the default but this is not implemented.
+This requires that the used slider is only used by the mod and never in CAS. Currently this is the case but with support for custom sliders things may change.

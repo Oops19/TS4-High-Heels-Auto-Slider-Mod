@@ -1,0 +1,22 @@
+This is the configuration directory.
+If you ever receive heels or other CC with a "preset.creator.ini" file then store this file here.
+
+
+The file 'do-not-delete-this-file.txt' should not be deleted. The sim default slider values are stored in it.
+If you delete it while sliders are applied in your save-game the mod will assume that the applied values are the default values.
+The 'up''-slider default should be 0 for all sims while the 'tall'-slider may have random values.
+
+This mod is delivered with:
+"slider.default.ini" which defines the sliders delivered with this mod.
+"perset.default.ini" which contains presets for nearly all EA shoes / heels (base game and many mods).
+    Flat shoes are not included for obvious reasons. There the same default as for 'nude' is applied. Even though also "flat" shoes usually add 10 to 30 mm.
+
+This mod may include:
+"preset.asta96.ini" which defines preset for some Astya96 heels. Heels are not included.
+"preset.DallasGirl79.ini" which defines preset for some DallasGirl79 heels. Heels are not included.
+"preset.redheadsims.ini" which defines presets for some redheadsims heels. Heels are included (licenced according to https://tos.ea.com/legalapp/WEBTERMS/US/en/PC/).
+
+See Oops19-Documentation/Used_CC.txt for more information about used CC.
+
+
+
